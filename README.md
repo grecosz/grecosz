@@ -3,5 +3,5 @@
 📚 ◽ Aprendendo Javascript, C#, HTML, CSS e + <br>
 🖥️ ◽ Visual Studio, Visual Code, Unity e Blender. <br>
 🎥 ◽ Edito materiais gráficos no Adobe Premiere. <br>
-
+♀️ ◽ Pronomes Ela/Dela
 
