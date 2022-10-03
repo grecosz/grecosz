@@ -7,8 +7,31 @@
 🎥 ◽ Edito materiais gráficos no Adobe Premiere. <br>
 ♀️ ◽ Pronomes ela/dela
 </div>
+
+##
+
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=grecosz&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grecosz&layout=compact&langs_count=7&theme=onedark"/>
 </div>
+  
+<div align="center">
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Greco-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Greco-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
+  <img align="center" alt="Greco-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+  <img align="center" alt="Greco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+   
+  <img align="center" alt="Greco-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">      
+  <img align="center" alt="Greco-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+  <img align="center" alt="Greco-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
+</div>
+  
+##
+  
+
+ 
+ 
+          
+          
