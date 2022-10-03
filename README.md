@@ -26,6 +26,8 @@
   <img align="center" alt="Greco-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">      
   <img align="center" alt="Greco-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
   <img align="center" alt="Greco-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
+  
+  <img align="right" alt="Greco-GIF" height="150" width="150" src="https://media.discordapp.net/attachments/613503615449038884/1026635965768409118/download20221001200800.png">
 </div>
   
 ##
@@ -36,5 +38,7 @@
  <a href="https://www.youtube.com/channel/UCLX2UAmJf7FprWj_jlkgQYQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-c6a76f?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/id/grecosz" target="_blank"><img src="https://img.shields.io/badge/Steam-df6d74?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
  <a href="https://open.spotify.com/user/22wn6qfds2tui6suqild7x5aq?si=ef549d18b21d440c" target="_blank"><img src="https://img.shields.io/badge/Spotify-c6a76f?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+ 
+ ![Snake animation](https://github.com/grecosz/grecosz/blob/output/github-contribution-grid-snake.svg)
           
           
