@@ -32,8 +32,9 @@
   
 <div> 
   
-  <a href="https://instagram.com/grecosz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.youtube.com/channel/UCLX2UAmJf7FprWj_jlkgQYQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- <a href="https://instagram.com/grecosz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/grecosz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-df6d74?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.youtube.com/channel/UCLX2UAmJf7FprWj_jlkgQYQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-c6a76f?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://steamcommunity.com/id/grecosz" target="_blank"><img src="https://img.shields.io/badge/Steam-df6d74?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+ <a href="https://open.spotify.com/user/22wn6qfds2tui6suqild7x5aq?si=ef549d18b21d440c" target="_blank"><img src="https://img.shields.io/badge/Spotify-c6a76f?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
           
           
