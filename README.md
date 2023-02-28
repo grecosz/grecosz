@@ -4,7 +4,7 @@
 <img align="right" alt="Greco2" height="150" width="150" src="https://media.discordapp.net/attachments/613503615449038884/1026635965768409118/download20221001200800.png">
 <img align="left" alt="Greco1" height="150" width="150" src="https://media.discordapp.net/attachments/613503615449038884/1026645342613143572/download20221001203934.png">
 <br>
-👩🏻‍💻 ◽ Programação de Jogos 2/3 na ETEC Basilides de Godoy. <br>
+👩🏻‍💻 ◽ Programação de Jogos 3/3 na ETEC Basilides de Godoy. <br>
 📚 ◽ Aprendendo Javascript, C#, HTML, CSS e + <br>
 🖥️ ◽ Visual Studio, Visual Code, Unity e Blender. <br>
 🎥 ◽ Edito materiais gráficos no Adobe Premiere. <br>
