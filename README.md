@@ -5,6 +5,7 @@
 <img align="left" alt="Greco1" height="150" width="150" src="https://media.discordapp.net/attachments/613503615449038884/1026645342613143572/download20221001203934.png">
 <br>
 👩🏻‍💻 ◽ Formada em Programação de Jogos Digitais na ETEC Basilides de Godoy. <br>
+💼 ◽ Trabalhando atualmente no SBT Games. <br>
 📚 ◽ Javascript, C#, HTML, CSS, Java e + <br>
 🖥️ ◽ Visual Studio, Visual Code, Unity e Blender. <br>
 🎥 ◽ Edito materiais gráficos no Adobe Premiere. <br>
